@@ -18,7 +18,7 @@ Individual Game Stats:
 
 Spring 2026 Individual Game Scouting Report:  
 
-[https://cyberskyline.com/world/69690a38f845cf0a7e6d8b87/report/69690a38f845cf0a7e6d8b90](https://s3.us-east-1.amazonaws.com/user-data.production.cyberskyline.com/reports/697902d65257c8e30217e380/GWFTBEJQPRJG.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAUDF4ZW3OYCTQP3HR%2F20260515%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260515T002911Z&X-Amz-Expires=600&X-Amz-Signature=94200e6a40b6d1090215d6b5ee3c355f551867466324c66bc197e05490dcb615&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+[Isaac Mesecar - Cyber Skyline Report.pdf](https://github.com/user-attachments/files/27816302/Isaac.Mesecar.-.Cyber.Skyline.Report.pdf)
 
 Team Game Stats:
 - 97.9% Completion
